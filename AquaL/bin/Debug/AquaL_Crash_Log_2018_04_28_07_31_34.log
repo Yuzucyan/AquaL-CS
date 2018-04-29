@@ -1,0 +1,10 @@
+ === AquaL Crash Log === 
+Need help? Send email to: cncreatec@gmail.com
+Message: 对象与目标类型不匹配。
+StackTrace: 
+   在 AquaL.Plugin.Manager.LoadAll() 位置 C:\Users\Q柚\source\repos\AquaL-Project\AquaL\Plugin\Manager.cs:行号 173
+   在 AquaL.App.Start() 位置 C:\Users\Q柚\source\repos\AquaL-Project\AquaL\App.xaml.cs:行号 24
+   在 AquaLProject.AquaLauncher.Main(String[] args) 位置 C:\Users\Q柚\source\repos\AquaL-Project\AquaL\AquaLauncher.cs:行号 16
+DateTime: 2018 18ear 04 31on下7 28 28a18 07 7our 31 31inu下e 34 34econ28(computer local time)
+Source: AquaL
+Bug什么的最讨厌啦！(╯‵□′)╯︵┻━┻

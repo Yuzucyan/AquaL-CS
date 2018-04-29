@@ -1,0 +1,10 @@
+ === AquaL Crash Log === 
+Need help? Send email to: cncreatec@gmail.com
+Message: 生成此程序集的运行时比当前加载的运行时新，无法加载此程序集。 (异常来自 HRESULT:0x8013101B)
+StackTrace: 
+   在 AquaL.Plugin.Manager.LoadAll() 位置 C:\Users\Q柚\source\repos\AquaL-Project\AquaL\Plugin\Manager.cs:行号 165
+   在 AquaL.App.Start() 位置 C:\Users\Q柚\source\repos\AquaL-Project\AquaL\App.xaml.cs:行号 24
+   在 AquaLProject.AquaLauncher.Main(String[] args) 位置 C:\Users\Q柚\source\repos\AquaL-Project\AquaL\AquaLauncher.cs:行号 16
+DateTime: 2018 18ear 04 58on下6 28 28a18 06 6our 58 58inu下e 52 52econ28(computer local time)
+Source: AquaL
+Bug什么的最讨厌啦！(╯‵□′)╯︵┻━┻

@@ -1,0 +1,30 @@
+{
+    "Name": "AquaL-TestPlugin", 
+    "Identifier": "TestPlugin",
+    "Author": "Yuzucyan",
+    "Icon": "icon.png",
+    "Main":
+    {
+        "BinFile": "TestPlugin.exe",
+        "Class": "TestPlugin.AquaLPlugin"
+    },
+    "ApiSupport":
+    {
+        "Type": "AquaL-CS",
+        "Min": 1,
+        "Target": 1,
+        "Max": 999
+    },
+    "Modules": 
+    [
+        {
+            "Type": "AquaL-LauncherIcon", 
+            "Location": "TestPlugin.MainPage",
+            "Method": "GetPage",
+            "Data": {
+                "Icon": "<PluginPath>/icon.png", 
+                "Name": "测试插件"
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+C:\Users\Q柚\source\repos\AquaL-Project\TestPlugin\bin\Debug\TestPlugin.exe
+C:\Users\Q柚\source\repos\AquaL-Project\TestPlugin\bin\Debug\TestPlugin.pdb
+C:\Users\Q柚\source\repos\AquaL-Project\TestPlugin\bin\Debug\AquaL.exe
+C:\Users\Q柚\source\repos\AquaL-Project\TestPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Q柚\source\repos\AquaL-Project\TestPlugin\bin\Debug\AquaL.pdb
+C:\Users\Q柚\source\repos\AquaL-Project\TestPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Q柚\source\repos\AquaL-Project\TestPlugin\obj\Debug\TestPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Q柚\source\repos\AquaL-Project\TestPlugin\obj\Debug\App.g.cs
+C:\Users\Q柚\source\repos\AquaL-Project\TestPlugin\obj\Debug\TestPlugin_MarkupCompile.cache
+C:\Users\Q柚\source\repos\AquaL-Project\TestPlugin\obj\Debug\TestPlugin.Properties.Resources.resources
+C:\Users\Q柚\source\repos\AquaL-Project\TestPlugin\obj\Debug\TestPlugin.csproj.GenerateResource.cache
+C:\Users\Q柚\source\repos\AquaL-Project\TestPlugin\obj\Debug\TestPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Q柚\source\repos\AquaL-Project\TestPlugin\obj\Debug\TestPlugin.csproj.CopyComplete
+C:\Users\Q柚\source\repos\AquaL-Project\TestPlugin\obj\Debug\TestPlugin.exe
+C:\Users\Q柚\source\repos\AquaL-Project\TestPlugin\obj\Debug\TestPlugin.pdb
+C:\Users\Q柚\source\repos\AquaL-Project\TestPlugin\bin\Debug\TestPlugin.exe.config
